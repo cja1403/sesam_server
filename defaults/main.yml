@@ -1,6 +1,9 @@
 ---
 # defaults file for sesam_server
 
+# sesam_package
+sesam_server_package: http://download.sep.de/linux/RedHat/x86_64/RHEL7/sesam_srv-4.4.3-64_pg.rhel7.x86_64.rpm
+
 # sesam var location
 sesam_var: /var/opt/sesam/var 
 
